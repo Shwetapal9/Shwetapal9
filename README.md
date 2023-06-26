@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hi there 👋 I'm Shweta Pal
 <!--
 **Shwetapal9/Shwetapal9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👨‍🎓 About me:
+
+I am an Engineer by Profession.
+
+## 👨‍💻 What I do:
+
+I am building Projects with JavaScript, learning React.js as a Front End Framework.
+
+## 🧰 Languages and Tools:
+#### 📁 Languages
+
+HTML5 JavaScript CSS3 Java 
+
+## ⚙️ Frameworks
+
+React Bootstrap jQuery
+
+## 🛠️ Tools
+
+Git GitHub NPM Visual Studio Code Jira
