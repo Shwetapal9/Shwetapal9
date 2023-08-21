@@ -20,7 +20,7 @@ I am an Engineer by Profession.
 
 ## 👨‍💻 What I do:
 
-I am building Projects with JavaScript, learning React.js as a Front End Framework.
+I am building Projects with JavaScript, and React.js as a Front End Framework.
 
 ## 🧰 Languages and Tools:
 #### 📁 Languages
